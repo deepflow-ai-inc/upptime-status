@@ -1,7 +1,7 @@
 url: https://auth.deepflow.com/realms/deepflow/.well-known/openid-configuration
 status: up
 code: 200
-responseTime: 463
-lastUpdated: 2026-11-17T23:00:30.907Z
+responseTime: 466
+lastUpdated: 2026-11-18T23:00:36.473Z
 startTime: 2026-09-03T11:24:50.585Z
 generator: Upptime <https://github.com/upptime/upptime>
